@@ -1,0 +1,2 @@
+# strains
+Cannabis strain information
